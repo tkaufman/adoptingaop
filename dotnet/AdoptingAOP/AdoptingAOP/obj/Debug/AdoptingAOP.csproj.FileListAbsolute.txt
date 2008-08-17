@@ -1,0 +1,16 @@
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\AdoptingAOP.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\AdoptingAOP.pdb
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\obj\Debug\AdoptingAOP.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\obj\Debug\AdoptingAOP.pdb
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\AdoptingAOP.dll.config
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.Core.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.DynamicProxy.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.MicroKernel.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.Windsor.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.Windsor.xml
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.DynamicProxy.xml
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.Core.xml
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\Castle.MicroKernel.xml

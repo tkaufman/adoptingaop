@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0375f15c-f4ed-4c7f-8467-a23affa57ebc" name="tkaufman@TKAUFMAN-VISTA 2008-06-16 21:58:45" runUser="QSI\tkaufman" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="3f4bd08e-3b46-4785-a55b-c02ff4bca6cb">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\TestResults\tkaufman_TKAUFMAN-VISTA 2008-06-16 21_58_45">
+      <DeploymentItem filename="C:\Program Files\CastleProject\Bin\net-2.0\Castle.Windsor.dll" />
+      <DeploymentItem filename="C:\Program Files\CastleProject\Bin\net-2.0\Castle.MicroKernel.dll" />
+      <DeploymentItem filename="C:\Program Files\CastleProject\Bin\net-2.0\Castle.DynamicProxy.dll" />
+      <DeploymentItem filename="C:\Program Files\CastleProject\Bin\net-2.0\Castle.Core.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2008-06-16T21:58:45.7431810-04:00" queuing="2008-06-16T21:58:46.0142448-04:00" start="2008-06-16T21:58:46.1547964-04:00" finish="2008-06-16T21:58:47.2691698-04:00" />
+  <TestDefinitions>
+    <UnitTest name="TestFindNullByNumber" storage="c:\users\tkaufman\documents\visual studio 2008\projects\adoptingaop\adoptingaop\bin\debug\adoptingaop.dll" id="2d673b58-a5f2-ba37-a584-e4660783d0ff">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c0ebe157-89d0-45ac-b200-76cc0943a712" />
+      <TestMethod codeBase="C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\AdoptingAOP.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdoptingAOP.AccountServiceTest, AdoptingAOP" name="TestFindNullByNumber" />
+    </UnitTest>
+    <UnitTest name="TestFindByNumber" storage="c:\users\tkaufman\documents\visual studio 2008\projects\adoptingaop\adoptingaop\bin\debug\adoptingaop.dll" id="cebc6843-8f0d-5e76-d13a-359b67f49597">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="d6df2378-3db2-4270-8e54-05384dc3d0e7" />
+      <TestMethod codeBase="C:\Users\tkaufman\Documents\Visual Studio 2008\Projects\AdoptingAOP\AdoptingAOP\bin\Debug\AdoptingAOP.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AdoptingAOP.AccountServiceTest, AdoptingAOP" name="TestFindByNumber" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2d673b58-a5f2-ba37-a584-e4660783d0ff" executionId="c0ebe157-89d0-45ac-b200-76cc0943a712" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cebc6843-8f0d-5e76-d13a-359b67f49597" executionId="d6df2378-3db2-4270-8e54-05384dc3d0e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c0ebe157-89d0-45ac-b200-76cc0943a712" testId="2d673b58-a5f2-ba37-a584-e4660783d0ff" testName="TestFindNullByNumber" computerName="TKAUFMAN-VISTA" duration="00:00:00.6304418" startTime="2008-06-16T21:58:46.2351116-04:00" endTime="2008-06-16T21:58:47.1386576-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Entering method Read with user 
+Exiting method Read with user</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="d6df2378-3db2-4270-8e54-05384dc3d0e7" testId="cebc6843-8f0d-5e76-d13a-359b67f49597" testName="TestFindByNumber" computerName="TKAUFMAN-VISTA" duration="00:00:00.0174619" startTime="2008-06-16T21:58:47.1386576-04:00" endTime="2008-06-16T21:58:47.1687758-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <StdOut>Entering method Create with user 
+Exiting method Create with user 
+Entering method Read with user 
+Exiting method Read with user</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
