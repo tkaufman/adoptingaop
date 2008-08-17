@@ -1,0 +1,13 @@
+<accounts>
+    <account id="1">
+        <number>1234123412341234</number>
+        <balance>10000.00</balance>
+        <holder>The Todd</holder>
+    </account>
+
+    <account id="2">
+        <number>4321432143214321</number>
+        <balance>100.00</balance>
+        <holder>Ted Klosterman</holder>
+    </account>
+</accounts>

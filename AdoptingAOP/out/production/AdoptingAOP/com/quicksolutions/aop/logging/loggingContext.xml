@@ -1,0 +1,26 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+    <bean class="org.springframework.aop.framework.autoproxy.BeanNameAutoProxyCreator">
+        <property name="beanNames">
+            <list>
+                <value>*DAO</value>
+            </list>
+        </property>
+        <property name="interceptorNames">
+            <list>
+                <value>loggingTraceInterceptor</value>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="loggingTraceInterceptor" class="org.springframework.aop.interceptor.SimpleTraceInterceptor" >
+        <property name="useDynamicLogger" value="true" />
+    </bean>
+
+ </beans>

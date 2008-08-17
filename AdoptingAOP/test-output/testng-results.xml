@@ -1,0 +1,112 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Custom suite">
+    <groups>
+      <group name="functional">
+        <method signature="com.quicksolutions.aop.AccountServiceTest.testWithdraw()" name="testWithdraw" class="com.quicksolutions.aop.AccountServiceTest"/>
+        <method signature="com.quicksolutions.aop.AccountServiceTest.testTransferFunds()" name="testTransferFunds" class="com.quicksolutions.aop.AccountServiceTest"/>
+        <method signature="com.quicksolutions.aop.AccountServiceTest.testDeposit()" name="testDeposit" class="com.quicksolutions.aop.AccountServiceTest"/>
+        <method signature="com.quicksolutions.aop.AccountServiceTest.testFindAccount()" name="testFindAccount" class="com.quicksolutions.aop.AccountServiceTest"/>
+      </group>
+    </groups>
+    <test name="AdoptingAOP">
+      <class name="com.quicksolutions.aop.AccountServiceTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="63" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testWithdraw()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="2" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testFindAccount()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testDeposit()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)" name="springTestContextAfterTestMethod" is-config="true" duration-ms="2" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testDeposit()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testTransferFunds()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testTransferFunds()" name="testTransferFunds" duration-ms="22" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="createTable()" name="createTable" is-config="true" duration-ms="326" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)" name="springTestContextAfterTestMethod" is-config="true" duration-ms="3" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testWithdraw()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)" name="springTestContextAfterTestMethod" is-config="true" duration-ms="2" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testFindAccount()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testWithdraw()" name="testWithdraw" duration-ms="22" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="populateObjects()" name="populateObjects" is-config="true" duration-ms="2" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="1411" started-at="2008-06-18T18:41:53Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="testFindAccount()" name="testFindAccount" duration-ms="22" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.quicksolutions.aop.AccountServiceTest.testTransferFunds()]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="populateObjects()" name="populateObjects" is-config="true" duration-ms="50" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="populateObjects()" name="populateObjects" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="dropTable()" name="dropTable" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="populateObjects()" name="populateObjects" is-config="true" duration-ms="1" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+        <test-method status="PASS" signature="testDeposit()" name="testDeposit" duration-ms="9" started-at="2008-06-18T18:41:55Z" finished-at="2008-06-18T18:41:55Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
