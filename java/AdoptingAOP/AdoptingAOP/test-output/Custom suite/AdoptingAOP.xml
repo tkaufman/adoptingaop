@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AdoptingAOP" failures="0" tests="4" time="1.967" errors="0">
-  <properties/>
-  <testcase name="testWithdraw" time="0.022" classname="com.quicksolutions.aop.AccountServiceTest"/>
-  <testcase name="testTransferFunds" time="0.022" classname="com.quicksolutions.aop.AccountServiceTest"/>
-  <testcase name="testDeposit" time="0.0090" classname="com.quicksolutions.aop.AccountServiceTest"/>
-  <testcase name="testFindAccount" time="0.022" classname="com.quicksolutions.aop.AccountServiceTest"/>
-</testsuite>
